@@ -1,0 +1,14 @@
+{
+    "lesson": {
+        "text": "Choose right answer",
+        "conditions": "Wich shape shows thirds?",
+        "rightAnswer": "A",
+        "optionAnswers": ["A", "B", "C"],
+        "images": {
+            "tasksImage": "https://raw.githubusercontent.com/Sega-hub/resource/main/task_img.png",
+            "coinImage": "https://raw.githubusercontent.com/Sega-hub/resource/main/coin.png",
+            "closeImage": "https://raw.githubusercontent.com/Sega-hub/resource/main/close_btn.png",
+            "bulbImage": "https://raw.githubusercontent.com/Sega-hub/resource/main/bulb.png"
+        }
+    }
+}
