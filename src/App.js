@@ -1,7 +1,7 @@
 import React, { useEffect, useState} from 'react';
 import axios from 'axios';
 import style from "./App.module.css";
-import Modal from './Modal/Modal';
+import Modal from "./modal/Modal.js";
 
 function App() {
 
